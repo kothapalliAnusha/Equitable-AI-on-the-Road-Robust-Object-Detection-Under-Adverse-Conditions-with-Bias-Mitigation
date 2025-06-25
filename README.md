@@ -144,7 +144,7 @@ Special thanks to the open-source communities and contributors behind:
 
 **K. Anusha**
 A passionate advocate for ethical, robust, and human-centered AI systems.
-📫 Connect: [GitHub](https://github.com/kothapallianusha987)
+📫 Connect: [GitHub](https://github.com/kothapalliAnusha/Equitable-AI-on-the-Road-Robust-Object-Detection-Under-Adverse-Conditions-with-Bias-Mitigation)
 📧 Email: [kothapallianusha987@gmail.com](mailto:kothapallianusha987@gmail.com)
 
 ---
